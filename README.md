@@ -12,7 +12,7 @@
 **A Search Button to look Up User Info, and Display it in a easy To manage UI.**<br />
 **How Will I implement it**<br />
 <h3> Save all of the Save data in a Hashmap ,were I store the Name Of the User as the Key</h3><br />
-<h3>Launch a GUI with a ****JTable****, to Display the User Information on a separate Window.</h3><br />
+<h3>Launch a GUI with a **JTable**, to Display the User Information on a separate Window.</h3><br />
 
 <br />
 <br />
