@@ -14,5 +14,5 @@ How Will I implement it<br />
  Save all of the Save data in a Hashmap ,were I store the Name Of the User as the Key<br />
 Launch a GUI with a JTable, to Display the User Information on a separate Window.<br />
 Next I will Create a "Search Button" , to Display a New Window to Show all of the Users Information.
-How Will I implement it
+How Will I implement it<br />
 Retrieve the same HashMap From the Above Step, and Display all the Information of the User on a JTable on a new Window.<br />
