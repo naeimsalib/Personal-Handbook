@@ -10,13 +10,13 @@
 
 # What I am Working On Next
 **A Search Button to look Up User Info, and Display it in a easy To manage UI.**<br />
-** How Will I implement it**<br />
+**How Will I implement it**<br />
 <h3> Save all of the Save data in a Hashmap ,were I store the Name Of the User as the Key</h3><br />
 <h3>Launch a GUI with a ****JTable****, to Display the User Information on a separate Window.</h3><br />
 
 <br />
 <br />
 
-** 2) Next I will Create a "Search Button" , to Display a New Window to Show all of the Users Information.<br />
+**2) Next I will Create a "Search Button" , to Display a New Window to Show all of the Users Information.<br />
 **How Will I implement it **<br />
 1) Retrieve the same HashMap From the Above Step, and Display all the Information of the User on a JTable on a new Window. <br />
